@@ -1,0 +1,2 @@
+- [x] Add validation for day such that if an incorrect day is entered, the result view is not loaded and the index view is reloaded with a correction prompt. 
+- [ ] Try using HTML form validation to handle error

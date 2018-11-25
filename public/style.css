@@ -1,0 +1,17 @@
+h1 {
+  font-size: 4vw;
+  margin-top: 2%;
+}
+
+h2 { font-size: 2vw }
+
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+
+form {
+  display: block;
+  margin-top: 2%;
+  font-size: 2vw;
+}
